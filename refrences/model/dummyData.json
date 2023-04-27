@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "first_name": "Brandy",
+    "last_name": "Mynett",
+    "email": "bmynett0@nifty.com",
+    "gender": "Male"
+  },
+  {
+    "id": 2,
+    "first_name": "Inglis",
+    "last_name": "Prescote",
+    "email": "iprescote1@amazonaws.com",
+    "gender": "Non-binary"
+  },
+  {
+    "id": 3,
+    "first_name": "Allegra",
+    "last_name": "Bleakman",
+    "email": "ableakman2@ihg.com",
+    "gender": "Female"
+  },
+  {
+    "id": 4,
+    "first_name": "Rea",
+    "last_name": "Housecraft",
+    "email": "rhousecraft3@wired.com",
+    "gender": "Female"
+  },
+  {
+    "id": 5,
+    "first_name": "Dorothee",
+    "last_name": "Le Teve",
+    "email": "dleteve4@sfgate.com",
+    "gender": "Female"
+  },
+  {
+    "id": 6,
+    "first_name": "Friedrick",
+    "last_name": "Frushard",
+    "email": "ffrushard5@house.gov",
+    "gender": "Male"
+  },
+  {
+    "id": 7,
+    "first_name": "Raphael",
+    "last_name": "Gierok",
+    "email": "rgierok6@furl.net",
+    "gender": "Male"
+  },
+  {
+    "id": 8,
+    "first_name": "Donna",
+    "last_name": "Hallagan",
+    "email": "dhallagan7@goo.ne.jp",
+    "gender": "Female"
+  },
+  {
+    "id": 9,
+    "first_name": "Clarine",
+    "last_name": "Moyler",
+    "email": "cmoyler8@tiny.cc",
+    "gender": "Non-binary"
+  },
+  {
+    "id": 10,
+    "first_name": "Ardelis",
+    "last_name": "Matteris",
+    "email": "amatteris9@lulu.com",
+    "gender": "Female"
+  },
+  {
+    "id": 11,
+    "first_name": "Drusi",
+    "last_name": "Weston",
+    "email": "dwestona@google.de",
+    "gender": "Female"
+  },
+  {
+    "id": 12,
+    "first_name": "Shelli",
+    "last_name": "Heighway",
+    "email": "sheighwayb@google.co.jp",
+    "gender": "Female"
+  },
+  {
+    "id": 13,
+    "first_name": "Eilis",
+    "last_name": "Pembry",
+    "email": "epembryc@samsung.com",
+    "gender": "Female"
+  },
+  {
+    "id": 14,
+    "first_name": "Leelah",
+    "last_name": "Pietesch",
+    "email": "lpieteschd@dropbox.com",
+    "gender": "Female"
+  },
+  {
+    "id": 15,
+    "first_name": "Frances",
+    "last_name": "Dreger",
+    "email": "fdregere@arizona.edu",
+    "gender": "Female"
+  },
+  {
+    "id": 16,
+    "first_name": "Armstrong",
+    "last_name": "Janda",
+    "email": "ajandaf@prlog.org",
+    "gender": "Male"
+  },
+  {
+    "id": 17,
+    "first_name": "Mano",
+    "last_name": "Kinlock",
+    "email": "mkinlockg@booking.com",
+    "gender": "Male"
+  },
+  {
+    "id": 18,
+    "first_name": "Abbi",
+    "last_name": "Harvie",
+    "email": "aharvieh@slate.com",
+    "gender": "Genderqueer"
+  },
+  {
+    "id": 19,
+    "first_name": "Benoite",
+    "last_name": "Stearnes",
+    "email": "bstearnesi@va.gov",
+    "gender": "Polygender"
+  },
+  {
+    "id": 20,
+    "first_name": "Kris",
+    "last_name": "Chipps",
+    "email": "kchippsj@youtube.com",
+    "gender": "Female"
+  }
+]
